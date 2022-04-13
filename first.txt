@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 first doc
+=======
+it's first doc
+>>>>>>> d9692aeb666b37c0f0c81ef4a296bba739f0ca9a
 2行目
